@@ -14,8 +14,7 @@ spring:
           search-paths:
             - springcloud-config
           #force-pull: true
-          #username: guojk1228
-          #password: zdd5201314@02
+
       ####读取分支
       label: main
 #rabbitmq相关配置
